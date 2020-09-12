@@ -27,7 +27,7 @@ And you will be able to download the following tools using the script if it’s 
 
 ```sh
 $ git clone https://github.com/MazX0p/Android-Reverse-Tool-Kit.git
-$ cd ARTK
+$ cd Android-Reverse-Tool-Kit
 $ bash ARTK.sh
 ```
 
