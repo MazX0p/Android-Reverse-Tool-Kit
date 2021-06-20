@@ -52,7 +52,7 @@ CHOSE AN ACTION \n
 6 - DOWNLOAD JD-GUI\n
 7 - EXIT\n "
 
-echo -e "\e[1;31mBY: 0XMAZ\e[0m"
+echo -e "\e[1;31mBY: 0XLINUX\e[0m"
 
 read runer
 case $runer in 
